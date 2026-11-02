@@ -1,0 +1,21 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+   nuoc_uong       1.00      1.00      1.00        42
+      ca_phe       0.97      1.00      0.98        29
+     thuc_an       0.97      1.00      0.99        38
+  mi_an_lien       1.00      0.93      0.96        28
+
+    accuracy                           0.99       137
+   macro avg       0.99      0.98      0.98       137
+weighted avg       0.99      0.99      0.99       137
+
+Test Accuracy: 98.54%
